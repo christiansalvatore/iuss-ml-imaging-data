@@ -16,7 +16,9 @@ Please, leave any comment/suggestion about the course [here](TBD).
 
 ## Program (2023-2024)
 * __Lesson #1__ __(March 13, 2025 \| 18:00-20:00 \| Broletto 1.16)__ ✓ <br>
-* __Lesson #2__ __(March 14, 2025 \| 15:00-17:00 \| Broletto 1.16)__  <br>
+* __Lesson #2__ __(March 14, 2025 \| 15:00-17:00 \| Broletto 1.16)__ ✓ <br>
+  * Machine learning for imaging and data in healthcare: clinical examples
+  * Validation and metrics
 
 <br>
 
