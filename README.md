@@ -35,7 +35,7 @@ Please, leave any comment/suggestion about the course [here](TBD).
 * __Lesson #9__ __(April 11, 2025 \| 15:00-18:00)__ <br>
 * __Lesson #10__ __(April 24, 2025 \| 18:00-20:00)__ <br>
 * __Lesson #11__ __(May 9, 2025 \| 15:00-17:30)__ <br>
-
+-------------------------------------------------------------
 * __Exam Session #1__ __(May 23, 2025 \| 11:00-13:00)__ <br>
 * __Exam Session #2__ __(June 6, 2025 \| 11:00-13:00)__ <br>
 * __Exam Session #3__ __(June 20, 2025 \| 15:00-17:00)__ <br>
