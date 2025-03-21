@@ -37,9 +37,9 @@ Please, leave any comment/suggestion about the course [here](TBD).
 <br>
 
 ## Material
-[__[Slides]__](TBD)
-[__[Code]__](TBD)
-[__[Dataset]__](TBD)
+[__[Slides]__](https://drive.google.com/drive/folders/1ob62ajyNTE0NxdScuHP6t30gAK04IiEI?usp=sharing)
+[__[Code]__](https://drive.google.com/drive/folders/1OTgBt5w-_QcOUOrtn8Mrc6VAKFySTKsh?usp=sharing)
+[__[Dataset]__](https://drive.google.com/drive/folders/1NZ1fq44JUYuNLC_NVDz12VJIMU2qjnAj?usp=sharing)
 [__[Literature]__](TBD)
 [__[Competition]__](TBD)
 
