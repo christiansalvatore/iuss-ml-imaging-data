@@ -20,11 +20,11 @@ Please, leave any comment/suggestion about the course [here](TBD).
 * __Lesson #2__ __(March 14, 2025 \| 15:00-17:00 \| Broletto 1.16)__ ✓ <br>
   * Machine learning for imaging and data in healthcare: clinical examples
   * Validation and metrics
-* __Lesson #3__ __(March 20, 2025 \| 18:00-20:00 \| Broletto Sala Riunioni)__ <br>
+* __Lesson #3__ __(March 20, 2025 \| 18:00-20:00 \| Broletto Sala Riunioni)__ ✓ <br>
   * Validation and metrics
   * Underfitting and overfitting
   * Feature extraction
-* __Lesson #4__ __(March 21, 2025 \| 15:00-18:00 \| Broletto 1.15)__ <br>
+* __Lesson #4__ __(March 21, 2025 \| 15:00-18:00 \| Broletto 1.15)__ ✓ <br>
   * Feature extraction
   * Feature selection
   * Radiomics
