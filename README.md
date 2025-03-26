@@ -28,13 +28,28 @@ Please, leave any comment/suggestion about the course [here](TBD).
   * Feature extraction
   * Feature selection
   * Radiomics
+  * </> coding exercise/project
 * __Lesson #5__ __(March 27, 2025 \| 18:00-20:00)__ <br>
+  * Support Vector Machine
+  * Ultrasound Imaging
+  * </> coding exercise/project
 * __Lesson #6__ __(March 28, 2025 \| 15:00-17:00)__ <br>
+  * Ensemble learning and random forest
+  * </> coding exercise/project
 * __Lesson #7__ __(April 3, 2025 \| 18:00-20:00)__ <br>
+  * Artificial neural networks and deep learning
+  * </> coding exercise/project
 * __Lesson #8__ __(April 4, 2025 \| 15:00-17:30)__ <br>
+  * Segmentation
+  * </> coding exercise/project
 * __Lesson #9__ __(April 11, 2025 \| 15:00-18:00)__ <br>
+  * Class imbalance handling
+  * </> coding exercise/project
 * __Lesson #10__ __(April 24, 2025 \| 18:00-20:00)__ <br>
+  * Applications to medical imaging and explainable AI
+  * </> coding exercise/project
 * __Lesson #11__ __(May 9, 2025 \| 15:00-17:30)__ <br>
+  * Project presentation
 -------------------------------------------------------------
 * __Exam Session #1__ __(May 23, 2025 \| 11:00-13:00)__ <br>
 * __Exam Session #2__ __(June 6, 2025 \| 11:00-13:00)__ <br>
