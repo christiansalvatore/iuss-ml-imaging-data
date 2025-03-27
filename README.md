@@ -12,7 +12,7 @@ Please, leave any comment/suggestion about the course [here](TBD).
 * Feature extraction
 * Feature selection
 * ML classifiers
-* Model implementation </>
+* Coding/models implementation </>
 
 ## Program (2023-2024)
 * __Lesson #1__ __(March 13, 2025 \| 18:00-20:00 \| Broletto 1.16)__ ✓ <br>
@@ -62,7 +62,7 @@ Please, leave any comment/suggestion about the course [here](TBD).
 [__[Code]__](https://drive.google.com/drive/folders/1OTgBt5w-_QcOUOrtn8Mrc6VAKFySTKsh?usp=sharing)
 [__[Dataset]__](https://drive.google.com/drive/folders/1NZ1fq44JUYuNLC_NVDz12VJIMU2qjnAj?usp=sharing)
 [__[Literature]__](TBD)
-[__[Competition]__](TBD)
+[__[Competition #1]__](https://www.kaggle.com/competitions/breast-cancer-us-classification-iuss-2024-2025)
 
 <br>
 
