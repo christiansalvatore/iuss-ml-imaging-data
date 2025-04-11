@@ -42,7 +42,7 @@ Please, leave any comment/suggestion about the course [here](TBD).
 * __Lesson #8__ __(April 4, 2025 \| 15:00-17:30)__ <br>
   * Segmentation
   * </> coding exercise/project
-* __Lesson #9__ __(April 11, 2025 \| 15:00-18:00)__ <br>
+* __Lesson #9__ __(April 11, 2025 \| 15:00-18:00)__ !!! MODEV !!!<br>
   * Class imbalance handling
   * </> coding exercise/project
 * __Lesson #10__ __(April 24, 2025 \| 18:00-20:00)__ <br>
@@ -62,7 +62,8 @@ Please, leave any comment/suggestion about the course [here](TBD).
 [__[Code]__](https://drive.google.com/drive/folders/1OTgBt5w-_QcOUOrtn8Mrc6VAKFySTKsh?usp=sharing)
 [__[Dataset]__](https://drive.google.com/drive/folders/1NZ1fq44JUYuNLC_NVDz12VJIMU2qjnAj?usp=sharing)
 [__[Literature]__](TBD)
-[__[Competition #1]__](https://www.kaggle.com/competitions/breast-cancer-us-classification-iuss-2024-2025)
+[__[Competition #1 - Breast Cancer Classification]__](https://www.kaggle.com/competitions/breast-cancer-us-classification-iuss-2024-2025)
+[__[Competition #2 - Flood Image Segmentation]__](https://www.kaggle.com/competitions/flood-image-segmentation-ml4im-2024-2025)
 
 <br>
 
