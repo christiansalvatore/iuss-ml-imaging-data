@@ -42,7 +42,7 @@ Please, leave any comment/suggestion about the course [here](TBD).
 * __Lesson #8__ __(April 4, 2025 \| 15:00-17:30)__ <br>
   * Segmentation
   * </> coding exercise/project
-* __Lesson #9__ __(April 11, 2025 \| 15:00-18:00)__ !!! MODEV !!!<br>
+* __Lesson #9__ __(April 11, 2025 \| 15:00-18:00)__ !!! MOVED !!!<br>
   * Class imbalance handling
   * </> coding exercise/project
 * __Lesson #10__ __(April 24, 2025 \| 18:00-20:00)__ <br>
