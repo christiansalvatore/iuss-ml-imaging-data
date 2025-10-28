@@ -15,8 +15,8 @@ Please, leave any comment/suggestion about the course [here](TBD).
 * Coding/models implementation </>
 
 ## Program (2025-2026)
-* __Lesson #1__ __(October 28, 2025 \| 18:00-20:00 \| Marelli Sala Riunioni)__ ✓ <br>
-* __Lesson #2__ __(October 29, 2025 \| 18:00-20:00 \| Marelli)__ ✓ <br>
+* __Lesson #1__ __(October 28, 2025 \| 18:00-20:00 \| Marelli Aula 1)__ ✓ <br>
+* __Lesson #2__ __(October 29, 2025 \| 18:00-20:00 \| Marelli Sala Riunioni)__ ✓ <br>
 * __Lesson #3__ __(October 30, 2025 \| 18:00-20:00 \| Marelli Sala Riunioni)__ ✓ <br>
 * __Lesson #4__ __(November 04, 2025 \| 18:00-20:00 \| Marelli Aula 1)__ ✓ <br>
 * __Lesson #5__ __(November 06, 2025 \| 18:00-20:00 \| Marelli Sala Riunioni)__ <br>
