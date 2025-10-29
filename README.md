@@ -16,9 +16,11 @@ Please, leave any comment/suggestion about the course [here](TBD).
 
 ## Program (2025-2026)
 * __Lesson #1__ __(October 28, 2025 \| 18:00-20:00 \| Marelli Aula 1)__ ✓ <br>
-* __Lesson #2__ __(October 29, 2025 \| 18:00-20:00 \| Marelli Sala Riunioni)__ ✓ <br>
-* __Lesson #3__ __(October 30, 2025 \| 18:00-20:00 \| Marelli Sala Riunioni)__ ✓ <br>
-* __Lesson #4__ __(November 04, 2025 \| 18:00-20:00 \| Marelli Aula 1)__ ✓ <br>
+  * Artificial intelligence, machine learning, deep learning: definitions and use cases
+  * Machine learning for imaging and data in healthcare: clinical examples
+* __Lesson #2__ __(October 29, 2025 \| 18:00-20:00 \| Marelli Sala Riunioni)__ <br>
+* __Lesson #3__ __(October 30, 2025 \| 18:00-20:00 \| Marelli Sala Riunioni)__ <br>
+* __Lesson #4__ __(November 04, 2025 \| 18:00-20:00 \| Marelli Aula 1)__ <br>
 * __Lesson #5__ __(November 06, 2025 \| 18:00-20:00 \| Marelli Sala Riunioni)__ <br>
 * __Lesson #6__ __(November 07, 2025 \| 15:00-17:00 \| Marelli Sala Riunioni)__ <br>
 * __Lesson #7__ __(November 11, 2025 \| 18:00-20:00 \| Marelli Sala Riunioni)__ <br>
