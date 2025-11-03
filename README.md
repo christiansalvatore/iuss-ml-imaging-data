@@ -44,7 +44,7 @@ Please, leave any comment/suggestion about the course [here](TBD).
 <br>
 
 ## Material
-[__[Slides]__](TBD)
+[__[Slides]__]([TBD](https://drive.google.com/drive/folders/1ob62ajyNTE0NxdScuHP6t30gAK04IiEI?usp=sharing))
 [__[Code]__](TBD)
 [__[Dataset]__](TBD)
 [__[Literature]__](TBD)
