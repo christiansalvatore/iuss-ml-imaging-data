@@ -31,15 +31,16 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 * __Lesson #9__ __(November 21, 2025 \| 15:00-17:00 \| Marelli Sala Riunioni)__ <br>
 * __Lesson #10__ __(November 22, 2025 \| 10:00-12:00 \| Marelli Open Space)__ <br>
 * __Lesson #11__ __(November 25, 2025 \| 18:00-20:00 \| Marelli Sala Riunioni)__ <br>
+* __Lesson #12__ __(November 27, 2025 \| 17:00-20:00 \| Marelli Sala Riunioni)__ <br>
 
 * __COMPETITION DEADLINE__ __TBD__
-  
-* __Lesson #12__ __(November 27, 2025 \| 17:00-20:00 \| Marelli Sala Riunioni)__ <br>
-  * Project presentation
 -------------------------------------------------------------
 * __Exam Session #1__ __(TBD)__ <br>
+  * Project presentation
 * __Exam Session #2__ __(TBD)__ <br>
+  * Project presentation
 * __Exam Session #3__ __(TBD)__ <br>
+  * Project presentation
 
 <br>
 
