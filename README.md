@@ -3,7 +3,7 @@ Scuola Universitaria Superiore IUSS Pavia
 <br>
 Contact: christian.salvatore@iusspavia.it
 <br>
-Please, leave any comment/suggestion about the course [here](TBD).
+Please, leave any comment/suggestion about the course [here](https://docs.google.com/forms/d/e/1FAIpQLScwQRkTYqWW4GVv0u64hkSxC2viYWp-lH-swW8COd1nFVK1Xg/viewform?usp=sharing&ouid=113445550928101199875).
 
 ## Covered topics
 * Machine learning and the «data life cycle»
@@ -56,7 +56,7 @@ Please, leave any comment/suggestion about the course [here](TBD).
 <br>
 
 ## Comments and suggestions
-Please, leave any comment/suggestion about the course [here](TBD).
+Please, leave any comment/suggestion about the course [here](https://docs.google.com/forms/d/e/1FAIpQLScwQRkTYqWW4GVv0u64hkSxC2viYWp-lH-swW8COd1nFVK1Xg/viewform?usp=sharing&ouid=113445550928101199875).
 
 
 -------------------------------------------------------------
