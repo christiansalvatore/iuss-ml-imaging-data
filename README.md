@@ -45,11 +45,10 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 
 ## Material
 [__[Slides]__](https://drive.google.com/drive/folders/1ob62ajyNTE0NxdScuHP6t30gAK04IiEI?usp=sharing) <br>
-[__[Dataset]__](https://drive.google.com/drive/folders/1NZ1fq44JUYuNLC_NVDz12VJIMU2qjnAj?usp=sharing) <br>
 [__[Literature]__](https://drive.google.com/drive/folders/11F2J1HOIqK7LlQsWfHWaJ3_Bd65WnGKF?usp=sharing) <br>
 
 ## Code
-Medical-image reading (dicom/nifti) [__[.py]__](https://drive.google.com/drive/folders/1cclMYt1yiM2f0wXveDjUuZYYlRgKh90N?usp=sharing) [__[.ipynb]__](https://drive.google.com/drive/folders/10lrHZl0-IKVMEO1l5Dt0kCHsxUcL5r6_?usp=sharing)
+Medical-image reading (dicom/nifti) [__[.py]__](https://drive.google.com/drive/folders/1cclMYt1yiM2f0wXveDjUuZYYlRgKh90N?usp=sharing) [__[.ipynb]__](https://drive.google.com/drive/folders/10lrHZl0-IKVMEO1l5Dt0kCHsxUcL5r6_?usp=sharing) [__[dataset]__](https://drive.google.com/drive/folders/1NZ1fq44JUYuNLC_NVDz12VJIMU2qjnAj?usp=sharing) <br>
 
 <br>
 
