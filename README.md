@@ -45,11 +45,13 @@ Please, leave any comment/suggestion about the course [here](TBD).
 
 ## Material
 [__[Slides]__]([TBD](https://drive.google.com/drive/folders/1ob62ajyNTE0NxdScuHP6t30gAK04IiEI?usp=sharing))
-[__[Code]__](TBD)
 [__[Dataset]__](https://drive.google.com/drive/folders/1NZ1fq44JUYuNLC_NVDz12VJIMU2qjnAj?usp=sharing)
 [__[Literature]__](TBD)
 [__[Competition #1 - Breast Cancer Classification]__]()
 [__[Competition #2 - Flood Image Segmentation]__]()
+
+## Code
+[__[Medical-image reading (dicom/nifti)]__](https://drive.google.com/drive/folders/1cclMYt1yiM2f0wXveDjUuZYYlRgKh90N?usp=sharing)
 
 <br>
 
