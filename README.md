@@ -51,7 +51,7 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 [__[Competition #2 - Flood Image Segmentation]__]()
 
 ## Code
-[__[Medical-image reading (dicom/nifti)]__](https://drive.google.com/drive/folders/1cclMYt1yiM2f0wXveDjUuZYYlRgKh90N?usp=sharing)
+Medical-image reading (dicom/nifti) [__[.py]__](https://drive.google.com/drive/folders/1cclMYt1yiM2f0wXveDjUuZYYlRgKh90N?usp=sharing)[__[.ipynb]__](https://drive.google.com/drive/folders/10lrHZl0-IKVMEO1l5Dt0kCHsxUcL5r6_?usp=sharing)
 
 <br>
 
