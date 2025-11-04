@@ -44,14 +44,12 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 <br>
 
 ## Material
-[__[Slides]__](https://drive.google.com/drive/folders/1ob62ajyNTE0NxdScuHP6t30gAK04IiEI?usp=sharing)
-[__[Dataset]__](https://drive.google.com/drive/folders/1NZ1fq44JUYuNLC_NVDz12VJIMU2qjnAj?usp=sharing)
-[__[Literature]__](https://drive.google.com/drive/folders/11F2J1HOIqK7LlQsWfHWaJ3_Bd65WnGKF?usp=sharing)
-[__[Competition #1 - Breast Cancer Classification]__]()
-[__[Competition #2 - Flood Image Segmentation]__]()
+[__[Slides]__](https://drive.google.com/drive/folders/1ob62ajyNTE0NxdScuHP6t30gAK04IiEI?usp=sharing) <br>
+[__[Dataset]__](https://drive.google.com/drive/folders/1NZ1fq44JUYuNLC_NVDz12VJIMU2qjnAj?usp=sharing) <br>
+[__[Literature]__](https://drive.google.com/drive/folders/11F2J1HOIqK7LlQsWfHWaJ3_Bd65WnGKF?usp=sharing) <br>
 
 ## Code
-Medical-image reading (dicom/nifti) [__[.py]__](https://drive.google.com/drive/folders/1cclMYt1yiM2f0wXveDjUuZYYlRgKh90N?usp=sharing)[__[.ipynb]__](https://drive.google.com/drive/folders/10lrHZl0-IKVMEO1l5Dt0kCHsxUcL5r6_?usp=sharing)
+Medical-image reading (dicom/nifti) [__[.py]__](https://drive.google.com/drive/folders/1cclMYt1yiM2f0wXveDjUuZYYlRgKh90N?usp=sharing) [__[.ipynb]__](https://drive.google.com/drive/folders/10lrHZl0-IKVMEO1l5Dt0kCHsxUcL5r6_?usp=sharing)
 
 <br>
 
@@ -107,3 +105,6 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 * __Exam Session #1__ __(May 23, 2025 \| 11:00-13:00)__ <br>
 * __Exam Session #2__ __(June 6, 2025 \| 11:00-13:00)__ <br>
 * __Exam Session #3__ __(June 20, 2025 \| 15:00-17:00)__ <br>
+
+[__[Competition #1 - Breast Cancer Classification]__]() <br>
+[__[Competition #2 - Flood Image Segmentation]__]() <br>
