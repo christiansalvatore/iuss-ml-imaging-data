@@ -23,7 +23,10 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
   * Validation and metrics
 * __Lesson #3__ __(October 30, 2025 \| 18:00-20:00 \| Marelli Sala Riunioni)__ ✓ <br>
   * Validation and metrics
-* __Lesson #4__ __(November 04, 2025 \| 18:00-20:00 \| Marelli Aula 1)__ <br>
+* __Lesson #4__ __(November 04, 2025 \| 18:00-20:00 \| Marelli Aula 1)__ ✓ <br>
+  * Validation and metrics
+  * Underfitting and overfitting
+  * Feature extraction
 * __Lesson #5__ __(November 06, 2025 \| 18:00-20:00 \| Marelli Sala Riunioni)__ <br>
 * __Lesson #6__ __(November 07, 2025 \| 15:00-17:00 \| Marelli Sala Riunioni)__ <br>
 * __Lesson #7__ __(November 11, 2025 \| 18:00-20:00 \| Marelli Sala Riunioni)__ <br>
