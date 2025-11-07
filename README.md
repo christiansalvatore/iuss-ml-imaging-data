@@ -56,6 +56,9 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 ## Code
 Medical-image reading (dicom/nifti) [__[.py]__](https://drive.google.com/drive/folders/1cclMYt1yiM2f0wXveDjUuZYYlRgKh90N?usp=sharing) [__[.ipynb]__](https://drive.google.com/drive/folders/10lrHZl0-IKVMEO1l5Dt0kCHsxUcL5r6_?usp=sharing) [__[dataset]__](https://drive.google.com/drive/folders/1NZ1fq44JUYuNLC_NVDz12VJIMU2qjnAj?usp=sharing) <br>
 
+Radiomics [__[.py]__](https://drive.google.com/drive/folders/1cclMYt1yiM2f0wXveDjUuZYYlRgKh90N?usp=sharing) [__[.ipynb]__]([https://drive.google.com/drive/folders/10lrHZl0-IKVMEO1l5Dt0kCHsxUcL5r6_?usp=sharing](https://drive.google.com/drive/folders/1-AbtfKE3tR1w6-_xQshJb35C_Qx9ecju?usp=sharing) [__[dataset]__](https://drive.google.com/drive/folders/1NZ1fq44JUYuNLC_NVDz12VJIMU2qjnAj?usp=sharing) <br>
+
+
 <br>
 
 ## Comments and suggestions
