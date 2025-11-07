@@ -27,7 +27,9 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
   * Validation and metrics
   * Underfitting and overfitting
   * Feature extraction
-* __Lesson #5__ __(November 06, 2025 \| 18:00-20:00 \| Marelli Sala Riunioni)__ <br>
+* __Lesson #5__ __(November 06, 2025 \| 18:00-20:00 \| Marelli Sala Riunioni)__ ✓ <br>
+  * Radiomics
+  * </> coding exercise/project
 * __Lesson #6__ __(November 07, 2025 \| 15:00-17:00 \| Marelli Sala Riunioni)__ <br>
 * __Lesson #7__ __(November 11, 2025 \| 18:00-20:00 \| Marelli Sala Riunioni)__ <br>
 * __Lesson #8__ __(November 14, 2025 \| 15:00-17:00 \| Marelli Sala Riunioni)__ <br>
