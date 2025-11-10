@@ -30,7 +30,10 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 * __Lesson #5__ __(November 06, 2025 \| 18:00-20:00 \| Marelli Sala Riunioni)__ ✓ <br>
   * Radiomics
   * </> coding exercise/project (pyradiomics library link: https://pyradiomics.readthedocs.io/)
-* __Lesson #6__ __(November 07, 2025 \| 15:00-17:00 \| Marelli Sala Riunioni)__ <br>
+* __Lesson #6__ __(November 07, 2025 \| 15:00-17:00 \| Marelli Sala Riunioni)__ ✓ <br>
+  * Radiomics
+  * Feature selection
+  * </> coding exercise/project
 * __Lesson #7__ __(November 11, 2025 \| 18:00-20:00 \| Marelli Sala Riunioni)__ <br>
 * __Lesson #8__ __(November 14, 2025 \| 15:00-17:00 \| Marelli Sala Riunioni)__ <br>
 * __Lesson #9__ __(November 21, 2025 \| 15:00-17:00 \| Marelli Sala Riunioni)__ <br>
@@ -58,6 +61,9 @@ Medical-image reading (dicom/nifti) [__[.py]__](https://drive.google.com/drive/f
 
 Radiomics [__[.py]__](https://drive.google.com/drive/folders/1cclMYt1yiM2f0wXveDjUuZYYlRgKh90N?usp=sharing) [__[.ipynb]__](https://drive.google.com/drive/folders/1-AbtfKE3tR1w6-_xQshJb35C_Qx9ecju?usp=sharing) [__[dataset]__](https://drive.google.com/drive/folders/1NZ1fq44JUYuNLC_NVDz12VJIMU2qjnAj?usp=sharing) <br>
 
+<br>
+
+[__[Competition #1 - Breast Cancer Classification]__](https://www.kaggle.com/competitions/breast-cancer-us-classification-ml-4-im-2025-2026) <br>
 
 <br>
 
@@ -114,5 +120,4 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 * __Exam Session #2__ __(June 6, 2025 \| 11:00-13:00)__ <br>
 * __Exam Session #3__ __(June 20, 2025 \| 15:00-17:00)__ <br>
 
-[__[Competition #1 - Breast Cancer Classification]__]() <br>
 [__[Competition #2 - Flood Image Segmentation]__]() <br>
