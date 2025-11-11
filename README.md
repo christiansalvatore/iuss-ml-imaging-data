@@ -61,9 +61,14 @@ Medical-image reading (dicom/nifti) [__[.py]__](https://drive.google.com/drive/f
 
 Radiomics [__[.py]__](https://drive.google.com/drive/folders/1cclMYt1yiM2f0wXveDjUuZYYlRgKh90N?usp=sharing) [__[.ipynb]__](https://drive.google.com/drive/folders/1-AbtfKE3tR1w6-_xQshJb35C_Qx9ecju?usp=sharing) [__[dataset]__](https://drive.google.com/drive/folders/1NZ1fq44JUYuNLC_NVDz12VJIMU2qjnAj?usp=sharing) <br>
 
+Feature extraction / PCA [__[.ipynb]__](https://drive.google.com/drive/folders/1MogG3JX6Mabts8EruIdGCr8Gdn4QE6_3?usp=sharing)
+
+Cross Validation [__[.ipynb]__](https://drive.google.com/drive/folders/1l0vLB_-tfkh-ac-0S9iM5WlNZSW-E8tI?usp=sharing)
+
 <br>
 
 [__[Competition #1 - Breast Cancer Classification]__](https://www.kaggle.com/competitions/breast-cancer-us-classification-ml-4-im-2025-2026) <br>
+[__[.py]__](https://drive.google.com/drive/folders/1JtErUEjqpGl5mH2h38JBvDuclZkADjSq?usp=sharing) [__[.ipynb]__](https://drive.google.com/drive/folders/1a5fFIJWgmsTLuwppxH6xYe15qdP4wpe3?usp=sharing)
 
 <br>
 
