@@ -34,7 +34,10 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
   * Radiomics
   * Feature selection
   * </> coding exercise/project
-* __Lesson #7__ __(November 11, 2025 \| 18:00-20:00 \| Marelli Sala Riunioni)__ <br>
+* __Lesson #7__ __(November 11, 2025 \| 18:00-20:00 \| Marelli Aula 1)__ <br>
+  * Feature selection
+  * Support Vector Machine
+  * </> coding exercise/project
 * __Lesson #8__ __(November 14, 2025 \| 15:00-17:00 \| Marelli Sala Riunioni)__ <br>
 * __Lesson #9__ __(November 21, 2025 \| 15:00-17:00 \| Marelli Sala Riunioni)__ <br>
 * __Lesson #10__ __(November 22, 2025 \| 10:00-12:00 \| Marelli Open Space)__ <br>
