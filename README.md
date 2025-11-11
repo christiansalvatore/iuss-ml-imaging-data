@@ -67,8 +67,8 @@ Cross Validation [__[.ipynb]__](https://drive.google.com/drive/folders/1l0vLB_-t
 
 <br>
 
-[__[Competition #1 - Breast Cancer Classification]__](https://www.kaggle.com/competitions/breast-cancer-us-classification-ml-4-im-2025-2026) <br>
-[__[.py]__](https://drive.google.com/drive/folders/1JtErUEjqpGl5mH2h38JBvDuclZkADjSq?usp=sharing) [__[.ipynb]__](https://drive.google.com/drive/folders/1a5fFIJWgmsTLuwppxH6xYe15qdP4wpe3?usp=sharing)
+Competition #1 - Breast Cancer Classification
+[__[Hosting platform / Kaggle]__](https://www.kaggle.com/competitions/breast-cancer-us-classification-ml-4-im-2025-2026) [__[.py]__](https://drive.google.com/drive/folders/1JtErUEjqpGl5mH2h38JBvDuclZkADjSq?usp=sharing) [__[.ipynb]__](https://drive.google.com/drive/folders/1a5fFIJWgmsTLuwppxH6xYe15qdP4wpe3?usp=sharing)
 
 <br>
 
