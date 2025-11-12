@@ -46,11 +46,11 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 
 * __COMPETITION DEADLINE__ __TBD__
 -------------------------------------------------------------
-* __Exam Session #1__ __(TBD)__ <br>
+* __Exam Session #1__ __(December 18, 2025 \| 14:00-16:00)__ <br>
   * Project presentation
-* __Exam Session #2__ __(TBD)__ <br>
+* __Exam Session #2__ __(January 16, 2026 \| 14:00-16:00)__ <br>
   * Project presentation
-* __Exam Session #3__ __(TBD)__ <br>
+* __Exam Session #3__ __(February 17, 2026 \| 14:00-16:00)__ <br>
   * Project presentation
 
 <br>
