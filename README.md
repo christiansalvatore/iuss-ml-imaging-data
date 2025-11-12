@@ -44,8 +44,10 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 * __Lesson #11__ __(November 25, 2025 \| 18:00-20:00 \| Marelli Sala Riunioni)__ <br>
 * __Lesson #12__ __(November 27, 2025 \| 17:00-20:00 \| Marelli Sala Riunioni)__ <br>
 
-* __COMPETITION DEADLINE__ __TBD__
+* __COMPETITION DEADLINE__ __16-Dec-2025__
+
 -------------------------------------------------------------
+
 * __Exam Session #1__ __(December 18, 2025 \| 14:00-16:00)__ <br>
   * Project presentation
 * __Exam Session #2__ __(January 16, 2026 \| 14:00-16:00)__ <br>
