@@ -38,7 +38,9 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
   * Feature selection
   * Support Vector Machine
   * </> coding exercise/project
-* __Lesson #8__ __(November 14, 2025 \| 15:00-17:00)__ <br>
+* __Lesson #8__ __(November 14, 2025 \| 15:00-17:00 \| Marelli Sala Riunioni)__ <br>
+  * Artificial neural networks and deep learning
+  * </> coding exercise/project
 * __!!! UPDATED >> Lesson #9__ __(November 21, 2025 \| 16:00-20:00)__ <br>
 * __!!! CANCELED >> Lesson #10__ __(November 22, 2025 \| 10:00-12:00)__ <br>
 * __Lesson #11__ __(November 25, 2025 \| 18:00-20:00)__ <br>
