@@ -42,6 +42,10 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
   * Artificial neural networks and deep learning
   * </> coding exercise/project
 * __!!! UPDATED >> Lesson #9__ __(November 21, 2025 \| 16:00-20:00)__ <br>
+  * Ultrasound imaging
+  * Segmentation
+  * Ensemble learning
+  * </> coding exercise/project
 * __!!! CANCELED >> Lesson #10__ __(November 22, 2025 \| 10:00-12:00)__ <br>
 * __Lesson #11__ __(November 25, 2025 \| 18:00-20:00)__ <br>
 * __Lesson #12__ __(November 27, 2025 \| 17:00-20:00)__ <br>
