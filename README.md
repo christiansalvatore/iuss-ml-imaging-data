@@ -48,6 +48,9 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
   * </> coding exercise/project
 * __!!! CANCELED >> Lesson #10__ __(November 22, 2025 \| 10:00-12:00)__ <br>
 * __Lesson #11__ __(November 25, 2025 \| 18:00-20:00)__ <br>
+  * Ensemble learning > Random Forest
+  * Class imbalance handling
+  * </> coding exercise/project
 * __Lesson #12__ __(November 27, 2025 \| 17:00-20:00)__ <br>
 
 * __COMPETITION DEADLINE__ __16-Dec-2025__
