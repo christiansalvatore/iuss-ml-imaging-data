@@ -52,6 +52,8 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
   * Class imbalance handling
   * </> coding exercise/project
 * __Lesson #12__ __(November 27, 2025 \| 17:00-20:00)__ <br>
+  * Explainable AI
+  * </> coding exercise/project
 
 * __COMPETITION DEADLINE__ __16-Dec-2025__
 
